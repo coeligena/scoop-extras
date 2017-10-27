@@ -10,7 +10,7 @@
     "cookie": {
         "oraclelicense": "accept-securebackup-cookie"
     },
-    "extract_dir": "jdk-9",
+    "extract_dir": "jdk-9.0.1",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
