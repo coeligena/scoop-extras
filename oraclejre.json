@@ -3,8 +3,8 @@
     "version": "9.0.1-11",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/otn-pub/java/jdk/9.0.1+11/jre-9.0.1_windows-x64_bin.tar.gz",
-            "hash": "597178b4ba5b4c00a8bac2ca00b99e2c033116222be33ac968a34dfbbc8adbe1"
+            "url": "http://download.oracle.com/otn-pub/java/jdk/9.0.1+11/jre-9.0.1_windows-x64_bin.tar.gz",
+            "hash": "768dbf9f91a316f9b426b5f2dab791a7baa6dca81f470d2ef1a8d1f27528b80e"
         }
     },
     "cookie": {
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download.oracle.com/otn-pub/java/jdk/$matchPath"
+                "url": "http://download.oracle.com/otn-pub/java/jdk/$matchPath"
             }
         },
         "extract_dir": "jre-$matchMajor",
